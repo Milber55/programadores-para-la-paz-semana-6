@@ -1,0 +1,4 @@
+{
+  "tipo": "Acumulación de residuos",
+  "descripcion": "La comunidad informa que hay acumulación de basura en un lote cercano, generando malos olores y presencia de insectos."
+}

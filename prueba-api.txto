@@ -1,0 +1,23 @@
+
+
+
+
+
+
+Al enviar una petición POST a la ruta /registro con el siguiente JSON:
+
+{
+  "nombre": "Milber",
+  "mensaje": "Buenas noches"
+}
+
+el servidor responde con:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Milber",
+  "mensaje": "Buenas noches"
+}
+
+Esto demuestra que el servidor recibió correctamente los datos enviados por el usuario mediante una petición POST.
+hola
